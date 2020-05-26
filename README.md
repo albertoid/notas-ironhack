@@ -3,7 +3,7 @@ Notas del Curso de Data Analyst en Ironhack Mexico
 
 ## Temas
 
-### [I. Introducción a Python]()
+### [I. Introducción a Python](https://github.com/albertoid/notas-ironhack/blob/master/temas/I.%20Intro.ipynb)
 
 1. Comprensión de Listas
 2. Diccionarios (dict), Tuplas (tupple) y Conjuntos (set)
